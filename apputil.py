@@ -19,6 +19,7 @@ def lowest_score(names,scores):       #find the index of the lowest score
 
 
 
+
 #exercise2_part2
 def sort_names(names, scores):
     idx = np.argsort(scores)
